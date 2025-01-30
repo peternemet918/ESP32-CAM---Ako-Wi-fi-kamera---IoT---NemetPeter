@@ -19,7 +19,7 @@ Na to, aby sme celý tento projekt zrealizovali potrebujeme:
 -1x prepojovací microUSB kábel (na prepojenie ESP32 s PC na nahratie kódu, potom na napájanie)
 -zdroj napätia (USB nabíjačka, USB port v notebooku pre napájanie ESP32, displeja a senzora teploty)
 -Wi-Fi router, na ktorý sa nám ESP32 bude pripájať, v našom prípade (4G mobilný WiFi router) a SIMkartu s dátovým programom (čo umožňuje využitie kdekoľvek, kde je signál mobilného operátora)
--PC a Software Arduino (bezplatne stiahhnuteľný), prostredníctvom ktorého realizujeme nahranie kódu do ESP32
+-PC a Software Arduino (bezplatne stiahnuteľný), prostredníctvom ktorého realizujeme nahranie kódu do ESP32
 
 
 
