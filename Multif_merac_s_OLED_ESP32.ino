@@ -49,14 +49,14 @@ void setup() {
   pinMode(BUILTIN_LED, OUTPUT);
   digitalWrite(BUILTIN_LED, LOW);
 
-  // Zobraz uvítaciu správu
+// Zobraz uvítaciu správu
   display.setTextSize(2);  // Väčší text
   display.setTextColor(SSD1306_WHITE);
   display.setCursor(0, 0);
-  display.println("Senzor");
+  display.println("Merac");
   display.setTextSize(1);  // Menší text
   display.setCursor(0, 20);
-  display.println("teploty, v1.00");
+  display.println("teploty s OLED, v1.00");
   display.display();
   display.setCursor(0, 40);
   display.println("Mgr. Nemet Peter,2RSI");
